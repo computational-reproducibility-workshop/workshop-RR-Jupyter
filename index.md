@@ -17,7 +17,7 @@ This document provides basic information about Reproducible Science with Jupyter
 * instructor skills needed for each module;
 * [examples of previous workshops](#examples).
 
-All of our material is on GitHub with a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) copyright waiver: [Reproducible Science Curriculum on GitHub](https://github.com/Reproducible-Science-Curriculum)
+All of our material is on GitHub with a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) copyright waiver: [Reproducible Science Curriculum on GitHub](https://github.com/computational-reproducibility-workshop)
 
 ## Learning Objectives
 
@@ -47,7 +47,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Goals**: Introduction to the workshop, including motivation, agenda and goals for the workshop.
 
 **Materials**<br/>
-*Repository*: <https://reproducible-science-curriculum.github.io/workshop-introduction-RR-Jupyter/>
+*Repository*: <https://computational-reproducibility-workshop.github.io/workshop-introduction-RR-Jupyter/>
 
 ### II. Data and Project Organization
 
@@ -56,7 +56,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills**: Good understanding of file organisation in research projects. Understanding of file structure on major operating systems (Windows, Linux/Unix, Mac OS) and the interface/commands for managing files and folders. Understanding of basic file types (binary vs. text). At least a basic overview of how files are stored (and deleted) in different operating systems. Understanding of file and folder naming conventions (names, extensions etc.).
 
 **Materials**<br/>
-*Repository*: <https://reproducible-science-curriculum.github.io/organization-RR-Jupyter/>
+*Repository*: <https://computational-reproducibility-workshop.github.io/organization-RR-Jupyter/>
 
 ### III. Introduction to the Jupyter notebook
 
@@ -65,7 +65,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills:** Familiarity with Jupyter notebooks; familiarity with markdown; basic python skills.
 
 **Materials**<br/>
-*Repository*: <https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter>
+*Repository*: <https://github.com/computational-reproducibility-workshop/introduction-RR-Jupyter>
 
 
 ### IV. Data Exploration
@@ -75,7 +75,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills**: Facility with tabular data. Understanding of the steps needed to reshape, merge, and subset data. Knowledge of different types of plots, and which types of plots are appropriate for various kinds of data. Familiaritiy with regular expressions, `pandas`, and `matplotlib` is helpful.
 
 **Materials**<br/>
-*Repository*: <https://reproducible-science-curriculum.github.io/data-exploration-RR-Jupyter/>
+*Repository*: <https://computational-reproducibility-workshop.github.io/data-exploration-RR-Jupyter/>
 
 ### V. Automation
 
@@ -84,7 +84,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills:** Good understanding of programming concepts, in particular code modularisation, writing and using functions, code reusability and so on. Good understanding of selected software engineering concepts such as project build and automation, code testing, continuous integration and  so on. Solid knowledge of Python, Jupyter, and relevant packages (consult the materials for details). Understanding of basic statistical concepts (consult the materials for details).
 
 **Materials**: <br/>
-*Repository*: <https://reproducible-science-curriculum.github.io/automation-RR-Jupyter/>
+*Repository*: <https://computational-reproducibility-workshop.github.io/automation-RR-Jupyter/>
 
 ### VI. Publication
 
@@ -93,7 +93,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills:** Understanding of requirements for reproducible publication. Understanding of differences between publication and sharing. Understanding the difference between open and restricted access publication. Overview of tools and repositories for publishing research outputs. Knowledge of different licensing models and ability to discuss major differences between the most commonly used licenses in research.
 
 **Materials**:<br/>
-*Repository*: <https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/>
+*Repository*: <https://computational-reproducibility-workshop/github.io/publication-RR-Jupyter/>
 
 ### VII. Sharing
 
@@ -102,19 +102,19 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills:** Some familiarity with GitHub, understanding of software dependencies and (containerized) environments.
 
 **Materials**<br/>
-*Repository*: <https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/>
+*Repository*: <https://computational-reproducibility-workshop.github.io/sharing-RR-Jupyter/>
 
 ## Workshops held previously
 
-This curriculum is in pilot status. The inital version of the curriculum (resulting from the [Jan 2017 development workshop](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2017)) has been taught as follows:
+This curriculum is in pilot status. The inital version of the curriculum (resulting from the [Jan 2017 development workshop](https://github.com/computational-reproducibility-workshop/RR-Jupyter-Hackathon-Jan-2017)) has been taught as follows:
 
 * [Duke University, March 2017](https://reproducible-science-curriculum.github.io/2017-03-15-duke/) (full 2-day curriculum)
 * [NIH, April 2017](http://bit.ly/nih-python) (shortened 1-day version)
 
-The next iteration of the curriculum (resulting from the [Jan 2018 development workshop](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-hackathon-Jan-2018/)) has been taught at the following workshops:
+The next iteration of the curriculum (resulting from the [Jan 2018 development workshop](https://github.com/computational-reproducibility-workshop/RR-Jupyter-hackathon-Jan-2018/)) has been taught at the following workshops:
 * [UC Merced, Jan 2018](http://www.datacarpentry.org/2018-01-11-ucmerced/) (full 2-day curriculum)
 * [NIH, Jan 2018](https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS499)
 
 ## Ongoing work
 
-These materials are being developed and revised on an ongoing basis. The list of [GitHub issues for the Reproducible-Science-Curriculum](https://github.com/issues?user=Reproducible-Science-Curriculum) gives a pretty good idea of what is happening and what needs to be done.
+These materials are being developed and revised on an ongoing basis. The list of [GitHub issues for the computational-reproducibility-workshop](https://github.com/issues?user=Reproducible-Science-Curriculum) gives a pretty good idea of what is happening and what needs to be done.
